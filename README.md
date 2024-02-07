@@ -3,6 +3,6 @@
 
 # About me:
 
-Hey I am Jonas. I am 19 y/o and work for MediaMarktSaturn. 
+Hey I am Jonas. I am 20 y/o and work for MediaMarktSaturn. 
 My hobbies are Gaming and breaking stuff. ;) 
 I hope you have  a great time here on GitHub.
